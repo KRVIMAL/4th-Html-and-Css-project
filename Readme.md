@@ -10,7 +10,7 @@ It took me 4 hours to complete.
 4. svg Images
 5. Flexbox
 
-[![main page clickable image](./screenshots/main-page.png "main page")](www.google.com)
+[![main page clickable image](./screenshots/main-page.png "main page")](https://seowebsites.netlify.app/)
 
 
-  ##### [Click here to view live project](www.google.com "click here to view page")
+  ##### [Click here to view live project](https://seowebsites.netlify.app/ "click here to view page")
